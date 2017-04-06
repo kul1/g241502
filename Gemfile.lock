@@ -1,13 +1,13 @@
 GIT
   remote: https://github.com/kul1/mindapp.git
-  revision: 79674437bb0b2e18d505d1f978fd2f6958a937f5
+  revision: 31868a53e1b41893539adb724b594ef713de2aa5
   branch: g241502
   specs:
     mindapp (0.0.8)
 
 GIT
   remote: https://github.com/mongodb/mongoid.git
-  revision: d370672cbb431b24420cde68e2397eed3b152c9e
+  revision: 1e1ea4995efcd6e3bae4a0227cc9aa1c43dbbaf0
   specs:
     mongoid (6.1.0)
       activemodel (~> 5.0)
