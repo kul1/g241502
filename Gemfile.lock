@@ -1,6 +1,7 @@
 GIT
   remote: https://github.com/kul1/mindapp.git
-  revision: 626a92ffc32a3ae3fd6d58f92574a9b4a698260a
+  revision: 79674437bb0b2e18d505d1f978fd2f6958a937f5
+  branch: g241502
   specs:
     mindapp (0.0.8)
 
